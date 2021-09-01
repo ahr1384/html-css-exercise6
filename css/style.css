@@ -19,3 +19,22 @@
     font-style: normal;
 }
 
+body {
+    font-family: DMsans;
+    background: #F4F7FE;
+}
+
+.menu {
+    width: 320px;
+}
+
+.content {
+    margin-left: 320px;
+}
+
+.topbar {
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    border-bottom: #F4F7FE 1px solid;
+}
